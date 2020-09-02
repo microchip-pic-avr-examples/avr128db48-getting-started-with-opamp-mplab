@@ -30,8 +30,9 @@ OP0, OP1 and OP2 are combined to create an instrumentation amplifier
 
 ## Software Used
 
-* [MPLAB X IDE](https://www.microchip.com/mplab/mplab-x-ide) 5.40 or later
+* [MPLAB® X IDE](https://www.microchip.com/mplab/mplab-x-ide) 5.40 or later
 * MPLAB AVR-Dx_DFP version 1.4.75 or later
+* For the Atmel Studio version of these projects, please go to [this repository](https://github.com/microchip-pic-avr-examples/avr128db48-getting-started-with-opamp-studio)
 
 ## Hardware Used
 
