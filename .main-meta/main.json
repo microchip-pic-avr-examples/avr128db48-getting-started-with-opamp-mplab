@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128db48-getting-started-with-opamp-mplab",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "displayName": "Getting Started with Analog Signal Conditioning (OPAMP)",
         "projectName": "avr128db48-getting-started-with-opamp-mplab",
         "shortDescription": "These MPLAB X bare metal examples in Getting Started with Analog Signal Conditioning (OPAMP) (TB3286), show how the OPAMP can be used on the AVR DB family of microcontrollers.The OPAMP peripheral features up to three internal operational amplifiers.",
